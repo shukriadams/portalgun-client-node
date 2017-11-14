@@ -1,0 +1,10 @@
+{
+    "name": "portalgun-client",
+    "description": "Moves things around with sockets",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+      "socket.io-client": "2.0.4",
+      "request" : "2.83.0"
+    }
+  }
